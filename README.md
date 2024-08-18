@@ -9,6 +9,6 @@ This is a backend capstone project to pass the course of **Dicoding Indonesia: L
 [![NodeJS](https://img.shields.io/badge/node.js-black?style=for-the-badge&logo=node.js)](https://github.com/evelyn-zhan?tab=repositories)
 [![HapiJS](https://img.shields.io/badge/hapi.js-black?style=for-the-badge&logo=hapi.js)](https://github.com/evelyn-zhan?tab=repositories)
 
-###
+##
 
 &copy; Evelyn 2024.
